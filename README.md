@@ -25,7 +25,7 @@ I built a personal portfolio web page using HTML to establish a structured,respo
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-- Semantic HTML& Structure: Mastered using elements like '<header>','<nav>','<section>'
+- Semantic HTML& Structure: Mastered using elements like `<header>`,`<nav>`,`<section>`
 - Chrome Dev-tools:Learned to inspect DOM elements,debug-layout issues, and verify asset paths.
 - Accessibility Practices: Conducted accessibility audits to ensure proper contrast and correct heading hierarchy.
 -Git&Deployment:Practiced version control using Git and successfully published a live website using GitHub pages.
