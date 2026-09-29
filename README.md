@@ -35,5 +35,5 @@ I built a personal portfolio web page using HTML to establish a structured,respo
 - Tag validation & syntax
 - Contact form integration
 
-## Live Demo (if deployed)
+## Live Demo 
 [View Live Demo](https://gitau0076-cpu.github.io/ify-s12-week-01-gitau0076-cpu/)
