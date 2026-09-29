@@ -31,7 +31,7 @@ I built a personal portfolio web page using HTML to establish a structured,respo
 -Git&Deployment:Practiced version control using Git and successfully published a live website using GitHub pages.
 
 ## Challenges Faced
--Image path resolution
+- Image path resolution
 - Tag validation & syntax
 - Contact form integration
 
