@@ -1,5 +1,5 @@
 ## Issues Found
--Intial Lighthouse accessibility score was 89.
+- Intial Lighthouse accessibility score was 89.
 - Touch targets do not have sufficient size and spacing.
 - Document does not have `<main>` landmark element.
 ## How They were Fixed
