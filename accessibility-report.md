@@ -5,3 +5,6 @@
 ## How They were Fixed
 - Included the core body content inside a `<main>`HTML tag.
 - Added padding and margin CSS styles to anchor tags to increase tap target size and spacing.
+## Final Lighthouse accessibility score
+- **Intial score:** 89
+- **Final score:** 100
